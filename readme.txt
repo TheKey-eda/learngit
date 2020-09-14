@@ -2,9 +2,5 @@
 Git is free software distributed under the GPL
 Git has a mutable index called stage
 Git nice software
-<<<<<<< HEAD
-Creating a new braanch is quick & simple.
-=======
-Creating a new branch is quick AND simple
->>>>>>> feature1
-Creating a new branch is quick and simple.
+Creating a new breanch is quick.
+Creating a new breanch is quick AND simple.
