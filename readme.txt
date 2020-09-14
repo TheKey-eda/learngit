@@ -2,4 +2,4 @@
 Git is free software distributed under the GPL
 Git has a mutable index called stage
 Git nice software
-Creating a new braanch is quick & simple.
+Creating a new braanch is quick and simple.
